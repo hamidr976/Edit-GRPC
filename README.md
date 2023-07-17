@@ -1,2 +1,2 @@
 # Edit-GRPC 
-Trying to use GRPC instate of TCP
+Trying to use GRPC instead of TCP
