@@ -44,11 +44,10 @@
             }
         }
     ],
-    "outbounds": [
-// {
-// "type": "direct",
-// "tag": "direct"
-// },
+   "outbounds": [
+{
+"type": "direct"
+},
 {
 "type": "direct",
 "tag": "dns"
