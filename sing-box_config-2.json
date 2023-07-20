@@ -23,7 +23,7 @@
             "domain_strategy": "ipv4_only",
             "users": [
                 {
-        "uuid": "E66E8785-9284-493D-BF48-8232AA3686EA",
+        "uuid": "02f2c0bc-7c11-4e84-acfa-2dc02564f8b8",
             "flow": "xtls-rprx-vision"
                 }
             ],
@@ -36,27 +36,27 @@
                     "server": "ipinfo.io",
                     "server_port": 443
                     },
-               "private_key": "qAdSu-xtsEOlP-xfysiAdiU-NxUBWmxZ63OOnTEMFFk",
+               "private_key": "oM-MZlDXFHqUWQCCKCars4E1yQ4i9kz01UiR2FTaqGo",
                     "short_id": [ 
-                    "6ba85179e30d4fc2"
+                    "8bdfb48160eafb9c"
                     ]
                 }
             }
         }
     ],
-   "outbounds": [
-{
-"type": "direct"
-},
-{
-"type": "direct",
-"tag": "dns"
-},
-{
-"type": "block",
-"tag": "block"
-}
-],
+    "outbounds": [
+        {
+      "type": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "dns"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+    ],
   "route": {
     "rules": [
       {
@@ -106,7 +106,9 @@
       },
       {
         "domain": [
-         
+          "http://harwebsitikemikhaidblockshe.com",
+          "http://harwebsitikemikhaidblockshe.com",
+          "http://icecyber.org"
         ],
         "outbound": "block"
       }
