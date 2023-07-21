@@ -21,13 +21,13 @@
             ],
             "tls": {
             "enabled": true,
-            "server_name": "telewebion.com",
+            "server_name": "android.com",
             "alpn": "h2",
             "max_version": "1.3",
             "reality": {
             "enabled": true,
             "handshake": {
-            "server": "telewebion.com",
+            "server": "android.com",
             "server_port": 443
 						},
             "private_key": "oAdSu-xtsGOlP-xfysiAdiU-NxUBWmxZ790OnTEMFFk",
@@ -49,7 +49,7 @@
 			"network": "tcp",
 			"tls": {
 			"enabled": true,
-			"server_name": "www.yahoo.com",
+			"server_name": "www.android.com",
 			"utls": {
 			"enabled": true,
 			"fingerprint": "chrome"
