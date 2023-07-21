@@ -29,11 +29,11 @@
             ],
             "tls": {
                 "enabled": true,
-            "server_name": "galaxystore.samsung.com",
+            "server_name": "android.com",
                 "reality": {
                     "enabled": true,
                     "handshake": {
-                    "server": "galaxystore.samsung.com",
+                    "server": "android.com",
                     "server_port": 443
                     },
                "private_key": "oM-MZlDXFHqUWQCCKCars4E1yQ4i9kz01UiR2FTaqGo",
