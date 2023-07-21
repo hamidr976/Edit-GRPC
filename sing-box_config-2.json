@@ -23,7 +23,7 @@
             "domain_strategy": "ipv4_only",
             "users": [
                 {
-        "uuid": "02f2c0bc-7c11-4e84-acfa-2dc02564f8b8",
+        "uuid": "66978c26-d732-405b-b4d6-8fc5ec5ff058",
             "flow": "xtls-rprx-vision"
                 }
             ],
@@ -36,9 +36,9 @@
                     "server": "android.com",
                     "server_port": 443
                     },
-               "private_key": "oM-MZlDXFHqUWQCCKCars4E1yQ4i9kz01UiR2FTaqGo",
+               "private_key": "MHvOh6oTKwd4aus3_PsWt_H7JxPiqpsJF7AnUyewW3w",
                     "short_id": [ 
-                    "8bdfb48160eafb9c"
+                    "77a63ab8f7d73b62"
                     ]
                 }
             }
