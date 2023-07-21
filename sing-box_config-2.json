@@ -29,11 +29,11 @@
             ],
             "tls": {
                 "enabled": true,
-            "server_name": "ipinfo.io",
+            "server_name": "android.com",
                 "reality": {
                     "enabled": true,
                     "handshake": {
-                    "server": "ipinfo.io",
+                    "server": "android.com",
                     "server_port": 443
                     },
                "private_key": "oM-MZlDXFHqUWQCCKCars4E1yQ4i9kz01UiR2FTaqGo",
