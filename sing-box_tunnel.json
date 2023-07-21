@@ -9,13 +9,13 @@
             "type": "vless",
             "tag": "vless-in",
             "listen": "::",
-            "listen_port": 443,
+            "listen_port": 8080,
             "sniff": true,
             "sniff_override_destination": true,
             "domain_strategy": "ipv4_only",
             "users": [
                 {
-                    "uuid": "E67E8785-9404-493D-BF48-8400AA3686EA",
+                    "uuid": "66978c26-d732-405b-b4d6-8fc5ec5ff058",
                     "flow": "xtls-rprx-vision"
                 }
             ],
@@ -28,11 +28,11 @@
             "enabled": true,
             "handshake": {
             "server": "android.com",
-            "server_port": 443
+            "server_port": 8080
 						},
-            "private_key": "oAdSu-xtsGOlP-xfysiAdiU-NxUBWmxZ790OnTEMFFk",
+            "private_key": "MHvOh6oTKwd4aus3_PsWt_H7JxPiqpsJF7AnUyewW3w",
             "short_id": [
-            "9ba85179e30d4fc2"
+            "77a63ab8f7d73b62"
                     ]
                 }
             }
@@ -43,8 +43,8 @@
 			"type": "vless",
 			"tag": "vless-out",
 			"server": "1.1.1.1",
-			"server_port": 443,
-			"uuid": "tr797ey6-a089-4c81-a12a-440de7381450",
+			"server_port": 8080,
+			"uuid": "66978c26-d732-405b-b4d6-8fc5ec5ff058",
 			"flow": "xtls-rprx-vision",
 			"network": "tcp",
 			"tls": {
@@ -56,8 +56,8 @@
 					},
 			"reality": {
 			"enabled": true,
-			"public_key": "w-oxbqigzCaUqARxuyD2_vbTYeMD9zn8wnTo02S69QM",
-			"short_id": "783c2a1d"
+			"public_key": "yMFebB2by54x43Zvj8hxWNwiC01EBFwJW4ICQeRORUA",
+			"short_id": "77a63ab8f7d73b62"
 						}
 					}
         }
